@@ -1,0 +1,10 @@
+D:\МОЁ\Tasks\Task9_EF\EF\EntityFramework\bin\Debug\EntityFramework.exe.config
+D:\МОЁ\Tasks\Task9_EF\EF\EntityFramework\bin\Debug\EntityFramework.exe
+D:\МОЁ\Tasks\Task9_EF\EF\EntityFramework\bin\Debug\EntityFramework.pdb
+D:\МОЁ\Tasks\Task9_EF\EF\EntityFramework\bin\Debug\EntityFramework.dll
+D:\МОЁ\Tasks\Task9_EF\EF\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\МОЁ\Tasks\Task9_EF\EF\EntityFramework\bin\Debug\EntityFramework.xml
+D:\МОЁ\Tasks\Task9_EF\EF\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\МОЁ\Tasks\Task9_EF\EF\EntityFramework\obj\Debug\EntityFramework.csprojResolveAssemblyReference.cache
+D:\МОЁ\Tasks\Task9_EF\EF\EntityFramework\obj\Debug\EntityFramework.exe
+D:\МОЁ\Tasks\Task9_EF\EF\EntityFramework\obj\Debug\EntityFramework.pdb
